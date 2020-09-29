@@ -1,0 +1,1 @@
+.animate{-webkit-transition:opacity 1s,-webkit-transform 1s;transition:opacity 1s,-webkit-transform 1s;-o-transition:transform 1s,opacity 1s;transition:transform 1s,opacity 1s;transition:transform 1s,opacity 1s,-webkit-transform 1s}.hideRight{visibility:hidden;opacity:0;-webkit-transform:translateX(200px);-ms-transform:translateX(200px);transform:translateX(200px)}
